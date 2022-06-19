@@ -12,6 +12,11 @@
 <a href="https://linkedin.com/in/khandakerrahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khandakerrahin" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandakerrahin&show_icons=true&locale=en&layout=compact" width="50%" alt="khandakerrahin" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandakerrahin&show_icons=true&locale=en&layout=compact" width="50%" alt="khandakerrahin" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerrahin&" width="50%" alt="khandakerrahin" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerrahin&" width="50%" alt="khandakerrahin" />
+
+</p>
+
+<p></p>
