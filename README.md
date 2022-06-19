@@ -14,9 +14,8 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandakerrahin&show_icons=true&locale=en&layout=compact" width="50%" alt="khandakerrahin" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerrahin&" width="50%" alt="khandakerrahin" />
-
 </p>
 
-<p></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerrahin&" width="50%" alt="khandakerrahin" />
+</p>
