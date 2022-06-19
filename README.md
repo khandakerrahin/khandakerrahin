@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaker Mahmud Khandaker</h1>
-<h2 align="center"><a href="https://www.khandakerrahin.com/" target="blank">khandakerrahin.com</a></h2>
+<h1 align="left">Hi 👋, I'm Shaker Mahmud Khandaker</h1>
+<h2 align="left"><a href="https://www.khandakerrahin.com/" target="blank">khandakerrahin.com</a></h2>
 
-<h3 align="center">A Data Science student with 3 years of experience in Software Development, passionate about exploring new technology and love to compose music. I am inquisitive about this universe's mysteries, which I want to unravel through my work and even take it a step further by contributing in the field to understand the universe a bit better.</h3>
+<h3 align="left">A Data Science student with 3 years of experience in Software Development, passionate about exploring new technology and love to compose music. I am inquisitive about this universe's mysteries, which I want to unravel through my work and even take it a step further by contributing in the field to understand the universe a bit better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khandakerrahin&label=Profile%20views&color=0e75b6&style=flat" alt="khandakerrahin" /> </p>
 
@@ -12,6 +12,6 @@
 <a href="https://linkedin.com/in/khandakerrahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khandakerrahin" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandakerrahin&show_icons=true&locale=en&layout=compact" alt="khandakerrahin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandakerrahin&show_icons=true&locale=en&layout=compact" alt="khandakerrahin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerrahin&" alt="khandakerrahin" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khandakerrahin&" alt="khandakerrahin" /></p>
